@@ -5,10 +5,7 @@ using Microsoft.Data.DataView;
 using Microsoft.ML;
 using Microsoft.ML.Data;
 
-using PinPoint.MLPrediction.Models;
-using PinPoint.MLPrediction.Models.DAL;
-
-namespace PinPoint.MLPrediction.Actions
+namespace Some.Actions
 {
     public class CreateConfusionMatrix
     {
