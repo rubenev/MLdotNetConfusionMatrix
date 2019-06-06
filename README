@@ -1,1 +1,3 @@
+As i've worked with ML.NET i've notist i lost a bit of control with what it did with my data. I can get a result, but i dont know what data got involved to get this result.
 
+This is why i created my own Confusion matrix logic that takes the testSet and rips it appart. So i know what datapoint was used and if it was correctly predicted or not
